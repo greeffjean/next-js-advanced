@@ -1,0 +1,55 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "dashboard": "Panel",
+    "settings": "Configuración",
+    "analytics": "Analíticas",
+    "feed": "Feed"
+  },
+  "dashboard": {
+    "title": "Panel",
+    "welcome": "Bienvenido de vuelta",
+    "search": "Buscar...",
+    "overview": "Resumen",
+    "reports": "Reportes",
+    "team": "Equipo",
+    "teamSettings": "Configuración del Equipo"
+  },
+  "analytics": {
+    "title": "Analíticas",
+    "visitors": "Visitantes",
+    "bounceRate": "Tasa de rebote",
+    "sessions": "Sesiones",
+    "error": "Error de Analíticas",
+    "errorMessage": "Error al cargar datos de analíticas"
+  },
+  "team": {
+    "title": "Equipo",
+    "invite": "Invitar",
+    "manage": "Gestionar",
+    "settings": "Configuración del Equipo",
+    "teamName": "Nombre del equipo",
+    "defaultRole": "Rol predeterminado",
+    "member": "Miembro",
+    "admin": "Administrador",
+    "viewer": "Espectador",
+    "saveChanges": "Guardar cambios",
+    "cancel": "Cancelar",
+    "error": "Error del Equipo",
+    "errorMessage": "Error al cargar datos del equipo"
+  },
+  "feed": {
+    "createPost": "¿En qué estás pensando?",
+    "photo": "Foto",
+    "poll": "Encuesta",
+    "post": "Publicar",
+    "loadMore": "Cargar más publicaciones",
+    "error": "Error del Feed",
+    "errorMessage": "Algo salió mal al cargar el feed"
+  },
+  "common": {
+    "tryAgain": "Intentar de nuevo",
+    "goBack": "Volver",
+    "goHome": "Ir al inicio"
+  }
+}

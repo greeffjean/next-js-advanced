@@ -1,0 +1,55 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "dashboard": "Tableau de bord",
+    "settings": "Paramètres",
+    "analytics": "Analyses",
+    "feed": "Flux"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "welcome": "Bon retour",
+    "search": "Rechercher...",
+    "overview": "Aperçu",
+    "reports": "Rapports",
+    "team": "Équipe",
+    "teamSettings": "Paramètres de l'équipe"
+  },
+  "analytics": {
+    "title": "Analyses",
+    "visitors": "Visiteurs",
+    "bounceRate": "Taux de rebond",
+    "sessions": "Sessions",
+    "error": "Erreur d'analyses",
+    "errorMessage": "Échec du chargement des données d'analyses"
+  },
+  "team": {
+    "title": "Équipe",
+    "invite": "Inviter",
+    "manage": "Gérer",
+    "settings": "Paramètres de l'équipe",
+    "teamName": "Nom de l'équipe",
+    "defaultRole": "Rôle par défaut",
+    "member": "Membre",
+    "admin": "Administrateur",
+    "viewer": "Observateur",
+    "saveChanges": "Enregistrer les modifications",
+    "cancel": "Annuler",
+    "error": "Erreur d'équipe",
+    "errorMessage": "Échec du chargement des données d'équipe"
+  },
+  "feed": {
+    "createPost": "À quoi pensez-vous ?",
+    "photo": "Photo",
+    "poll": "Sondage",
+    "post": "Publier",
+    "loadMore": "Charger plus de publications",
+    "error": "Erreur de flux",
+    "errorMessage": "Quelque chose s'est mal passé lors du chargement du flux"
+  },
+  "common": {
+    "tryAgain": "Réessayer",
+    "goBack": "Retour",
+    "goHome": "Aller à l'accueil"
+  }
+}
